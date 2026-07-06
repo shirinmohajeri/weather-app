@@ -2,7 +2,11 @@
 
 A clean, responsive weather app built with React and Vite. Search any city in the world to see the current conditions and a 5-day forecast, powered by the free [Open-Meteo](https://open-meteo.com/) API — no API key required.
 
+ HEAD
 **Live demo:** [weather-app-tan-nu-25.vercel.app](https://weather-app-tan-nu-25.vercel.app)
+=======
+**Live demo:** _add your Vercel link here once deployed_
+a6586efe64e5aa8dba000ebd552dda961af28a29
 
 ## Features
 
