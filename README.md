@@ -4,7 +4,7 @@ A clean, responsive weather app built with React and Vite. Search any city in th
 
  # HEAD
 **Live demo:** [weather-app-tan-nu-25.vercel.app](https://weather-app-tan-nu-25.vercel.app)
-#
+![preview](https://raw.githubusercontent.com/shirinmohajeri/weather-app/refs/heads/main/weather%20App.jpg)
 ## Features
 
 - 🔍 **City search** with real-time geocoding (works for cities worldwide)
